@@ -22,8 +22,6 @@ Establishing an effective distribution strategy can help companies reach a wider
 
 
 
-![image](https://github.com/titiksha301/AmazonSalesDataAnalysis/assets/119863939/7ffca415-6cb9-44a3-89a7-59e35ea94af8)
-
 
 
 
